@@ -94,6 +94,6 @@ wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR151/008/SRR1518158/SRR1518158_2.fastq
 | Ensembl VEP | web | Variant annotation |
 
 ## Author
+Varshini A
 
-Your Name — Biotechnology Undergraduate
-EOF
+
